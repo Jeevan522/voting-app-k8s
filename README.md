@@ -1,4 +1,4 @@
-# voting-app-k8s
+### voting-app-k8s
 
 This is based on the original example-voting-app from docker-examples(https://github.com/dockersamples)
 
